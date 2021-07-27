@@ -9,6 +9,10 @@ public class Employee {
 	}
 	public void empId(char c) {
 		System.out.println("The character value is "+c);
+		int o=0;
+		o=4;
+		System.out.println("the value of o is "+o);
+		
 	}
 	public void empId(float e) {
 		System.out.println("The float value is "+e);
