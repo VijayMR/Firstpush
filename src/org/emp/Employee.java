@@ -9,9 +9,12 @@ public class Employee {
 	}
 	public void empId(char c) {
 		System.out.println("The character value is "+c);
-		System.out.println("The character value is 1 "+c);
-		System.out.println("The character value is 2 "+c);
-		System.out.println("The character value is 3 "+c);
+		System.out.println("The character value is 1" );
+		System.out.println("The character value is 2 ");
+		System.out.println("The character value is 3 ");
+		int o=0;
+		o=4;
+		System.out.println("the value of o is "+o);
 	}
 	public void empId(float e) {
 		System.out.println("The float value is "+e);
